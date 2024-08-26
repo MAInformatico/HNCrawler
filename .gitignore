@@ -163,3 +163,4 @@ cython_debug/
 
 virtualenvironment/
 results.txt
+*.log
